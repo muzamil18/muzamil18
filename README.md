@@ -20,22 +20,15 @@
 
 ## 🧑‍💻 About Me
 
-```python
-class Muzamil:
-    def __init__(self):
-        self.role      = "AI & Data Science Student"
-        self.institute = "SMIT (Saylani Mass IT Training)"
-        self.education = "Intermediate in Computer Science (ICS)"
-        self.learning  = ["Python", "Data Analysis", "Machine Learning"]
-        self.goal      = "Become a professional Data Scientist"
-        self.mindset   = "Consistency > Motivation"
+Hello! I'm Muzamil, an aspiring Data Scientist who loves turning data into meaningful insights. 🚀
 
-    def say_hi(self):
-        return "Let's build something awesome together! 🚀"
-
-print(Muzamil().say_hi())
-```
-
+🎓 Education: Intermediate in Computer Science (ICS)
+🏫 Training: AI & Data Science student at SMIT (Saylani Mass IT Training)
+🐍 Currently learning: Python
+🌱 Next on my list: Pandas, NumPy, Data Visualization & Machine Learning
+🎯 Goal: Become a professional Data Scientist
+💡 Mindset: Consistency beats motivation
+🤝 Open to: Learning together, collaborating on beginner-friendly projects, and getting feedback
 ---
 
 ## 🔭 What I'm Up To
